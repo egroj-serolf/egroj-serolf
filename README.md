@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egroj-serolf
-- 👀 I’m interested in python kotlin dart and GPT-3
+- 👀 I’m interested in python kotlin dart firebase and GPT-3
 - 🌱 I’m currently learning the way to make me feel usefull
 - 💞️ I’m looking to collaborate on interesting proyects
 - 📫 How to reach me? by linkedin 
